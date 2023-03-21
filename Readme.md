@@ -1,7 +1,5 @@
 # JWT IMPLEMENTATION
 
-Modules Defined :
-
 ## MVC ARCHITECTURE
 Controllers: Logic Behind All the components or Object Being Used
 Models: Database Schema 
